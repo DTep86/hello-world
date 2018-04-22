@@ -1,3 +1,3 @@
 # hello-world
-First repository 
-I am a Unity 3d developer and I am learning how to use github.
+First repository V2
+I am a Unity 3d developer and I practice to improve my GitHub skills.
